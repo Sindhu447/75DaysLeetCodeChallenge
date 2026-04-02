@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
