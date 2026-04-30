@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
