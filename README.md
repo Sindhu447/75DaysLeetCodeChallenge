@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -51,6 +52,7 @@
 | [0049-group-anagrams](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
 ## Prefix Sum
 |  |
 | ------- |
