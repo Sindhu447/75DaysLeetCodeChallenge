@@ -185,8 +185,17 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
