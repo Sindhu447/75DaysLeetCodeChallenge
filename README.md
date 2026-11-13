@@ -186,6 +186,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0371-sum-of-two-integers](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,4 +199,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Sindhu447/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
